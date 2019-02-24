@@ -1,0 +1,5 @@
+discord
+async.io
+pymoe
+youtube_d1
+pip
