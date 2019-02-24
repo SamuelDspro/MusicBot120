@@ -36,4 +36,6 @@ async def ban(ctx,target:discord.Member):
     await bot.ban(target)
     
     
+    
+    
 client.run(str(os.environ.get('NTQ2NjI3MzgyMTUzNTc2NDU1.D0rcAg.jDVUVS8Wv2Lt3j5AtO3uvmuWL6Eh')))
